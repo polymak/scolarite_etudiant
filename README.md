@@ -1,6 +1,6 @@
 ## scolarite_etudiant ##
 
-scolarite_etudiant est une petite une Application web pour manipuler (Enregistrer, Modifier, Supprimer, afficher et Chercher) un ou plusieurs informations dans une base des données distante ou en ligne. Je l’ai conçu pour partager gratuitement le source code pour tous les étudiants de la RDC congo qui veulent savoir comment cela fonctionne pour développer leurs applications du SGBDR en ligne pour la défense TFC ou Mémoire (si possible pour le projet de production ou environnement live pour les entreprises sollicitées). La conception d’une base des données en ligne pour sa manipulation (enregistrer, modifier, supprimer, afficher et chercher) n’a jamais été facile pour le système web.
+scolarite_etudiant est une petite une Application web pour manipuler (Enregistrer, Modifier, Supprimer, afficher et Chercher) un ou plusieurs informations dans une base des données distante ou en ligne. Je l’ai conçu pour partager gratuitement le source code pour tous les étudiants de la RD Congo qui veulent savoir comment cela fonctionne pour développer leurs applications du SGBDR en ligne pour la défense TFC ou Mémoire (si possible pour le projet de production ou environnement live pour les entreprises sollicitées). La conception d’une base des données en ligne pour sa manipulation (enregistrer, modifier, supprimer, afficher et chercher) n’a jamais été facile pour le système web.
 Auteur de la programmation : Polycarpe makombo
 Langage programmé ou codé : PHP7-MYSQL-HTML-CSS
 Guide d’utilisation : 
